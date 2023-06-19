@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.cf6d2e35.css",
+    "main.js": "/static/js/main.a38dfb1c.js",
+    "static/media/image 7 (1).svg": "/static/media/image 7 (1).9a79714032ecdaffa76363754e93c836.svg",
+    "static/media/image 7.svg": "/static/media/image 7.d58f44d82a6234d32d90da4c74bfcc32.svg",
+    "static/media/usa.svg": "/static/media/usa.05f47a578223586f2a7daa1b5dc4fa80.svg",
+    "static/media/user setting.svg": "/static/media/user setting.445e9ec692ee850eb0f71a0c06f61792.svg",
+    "static/media/Bill.svg": "/static/media/Bill.421b5d0dff63b3c91a910222044210d6.svg",
+    "static/media/sim-card 1.svg": "/static/media/sim-card 1.4e7bbe1192267982d2a91b8b864ab0a0.svg",
+    "static/media/sim-card 1 (1).svg": "/static/media/sim-card 1 (1).e82d841330274833e0e26755913306dc.svg",
+    "static/media/Group 165.svg": "/static/media/Group 165.7dcaf7b06ad6356de05d803ae27e10b8.svg",
+    "static/media/logout.svg": "/static/media/logout.6c2d00dbcbde04f33b0114015a5546f9.svg",
+    "static/media/israil.svg": "/static/media/israil.66875861a1838f02391e66ccefa7c156.svg",
+    "index.html": "/index.html",
+    "static/media/russia.svg": "/static/media/russia.a2ee479d5ba0783bb37e141722cf5a27.svg",
+    "main.cf6d2e35.css.map": "/static/css/main.cf6d2e35.css.map",
+    "main.a38dfb1c.js.map": "/static/js/main.a38dfb1c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cf6d2e35.css",
+    "static/js/main.a38dfb1c.js"
+  ]
+}

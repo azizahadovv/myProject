@@ -1,0 +1,15 @@
+export { default as Home } from "./Home";
+export { default as Dashboard } from "./dashboard";
+export { default as Navbar } from "./navber";
+export { default as MyAccaunt } from "./myaccaunt";
+export { default as Bill } from "./bill";
+export { default as Servis } from "./servis";
+export { default as Support } from "./support";
+export { default as BillContent } from "./bilContent";
+export { default as MonthlyBill } from "./bilSection";
+export { default as BillSection2 } from "./BillPayment";
+export { default as BillSection3 } from "./PayYourBill";
+export { default as BillSection4 } from "./Autopay Setup bill";
+export { default as BillSection5 } from "./Previously Ordered Reports bill";
+export { default as ServisContent } from "./ServisContent";
+export { default as ServisContent2 } from "./ServisContent2";
